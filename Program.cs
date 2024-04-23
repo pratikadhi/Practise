@@ -148,7 +148,15 @@ namespace TigerSoccerClub
                             Console.WriteLine("******************************************************************************************************");
                             Console.WriteLine("Name    " + " Type   " + " Jersey   " + " Total ");
                             Console.WriteLine(Name + " " + Registration + " "+ " " + " " + Jersey + " " + " " + " " + total);
-                            Console.WriteLine("\n");
+<<<<<<< HEAD
+                        Console.WriteLine("Thank you for Visiting...");
+
+                        Console.WriteLine("\n");
+                        Console.ReadLine();
+
+=======
+                            
+>>>>>>> 7568384df64528ce8d07929c4f9fe818fc73fe6c
 
 
                     }
